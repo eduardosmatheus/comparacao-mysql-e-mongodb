@@ -1,0 +1,5 @@
+.sbtserver
+project
+resources/*.txt
+target
+.idea
